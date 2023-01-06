@@ -1,0 +1,29 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin:0px;
+}
+body{
+    background-size: cover;
+}
+#back{
+    background-color: black;
+    color:white;
+    size:1000px;
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+}
+#note{
+    color:white;
+    background-color:black;
+    font-size:larger;
+}
+#status{
+    color:yellow;
+    background-color:red;
+    border-radius:10px;
+    font-size:x-large;
+}
